@@ -1,6 +1,6 @@
 # ChillNGame Minigame Website
 Welcome to the ChillNGame repository!<br/><br/>
-<img src="https://user-images.githubusercontent.com/94769901/213904680-fb1affb1-8484-4097-bac9-80d13919ad05.JPG" width=25% height=25% border-radius=5px>
+<img src="https://user-images.githubusercontent.com/94769901/213904680-fb1affb1-8484-4097-bac9-80d13919ad05.JPG" width=25% height=25% border-radius=10px>
 
 ChillNGame is a minigame website that introduces Wau game from Malaysia to players. The game is set in a coffee shop themed map, where the player controls a character to interact with NPCs and learn about local drinks.
 
